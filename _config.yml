@@ -1,6 +1,6 @@
 title: 'mevbandit.github.io'
 description: "."
-baseurl: "/jekyll-theme-console-demo-dark"
+baseurl: "/"
 url: "https://mevbandit.github.io"
 
 header_pages:
