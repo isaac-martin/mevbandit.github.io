@@ -21,6 +21,7 @@ gem 'jekyll-theme-console', '> 0'
 group :jekyll_plugins do
     gem "jekyll-mentions", "1.6.0"
     gem "jekyll-feed", "~> 0.6"
+    gem "jekyll-remote-theme"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
